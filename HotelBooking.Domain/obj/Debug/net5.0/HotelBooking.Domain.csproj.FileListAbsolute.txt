@@ -1,0 +1,11 @@
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/bin/Debug/net5.0/HotelBooking.Domain.deps.json
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/bin/Debug/net5.0/HotelBooking.Domain.dll
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/bin/Debug/net5.0/ref/HotelBooking.Domain.dll
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/bin/Debug/net5.0/HotelBooking.Domain.pdb
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.AssemblyInfoInputs.cache
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.AssemblyInfo.cs
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.csproj.CoreCompileInputs.cache
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.dll
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/ref/HotelBooking.Domain.dll
+/Users/anesabdelrahman/Projects/HotelBookingSystem/HotelBooking.Domain/obj/Debug/net5.0/HotelBooking.Domain.pdb
